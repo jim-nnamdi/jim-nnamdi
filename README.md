@@ -1,4 +1,4 @@
 
-🌱 Low level stuff (mostly finance) with C++ & GO
+🌱 Low level stuff (mostly finance) with C/C++ & GO
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jim-nnamdi"/>
