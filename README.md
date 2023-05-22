@@ -1,4 +1,4 @@
 
-🌱 Low level stuff with C/C++ & GO
+🌱 Still Learning
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jim-nnamdi"/>
+<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jim-nnamdi"/> -->
